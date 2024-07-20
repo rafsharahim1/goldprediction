@@ -1,0 +1,1 @@
+This repository features code and documentation for predicting gold prices using a RandomForestRegressor model. The project showcases the application of machine learning in financial forecasting, incorporating time-series analysis to account for temporal dependencies in gold price data.
